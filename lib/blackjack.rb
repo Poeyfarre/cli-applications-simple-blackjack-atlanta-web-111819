@@ -22,6 +22,7 @@ end
 
 def end_game(total)
   puts ""
+  binding.pry
 end
 
 def initial_round
